@@ -2260,11 +2260,11 @@ button.button-2b4VEQ.height20-WSMpPs.button-f2h6uQ.lookFilled-yCfaCM.colorGreen-
 /* bearable inbox */
 
 .recentMentionsPopout-2bI1ZN .header-145e10 {
-    background-color        :             #292b2f;
+    background-color        :             #36393f;
 }
 .recentMentionsPopout-2bI1ZN .container-iA3Qrz,
 .recentMentionsPopout-2bI1ZN .channel-3NJZ1V {
-    background-color        :             #292b2f;
+    background-color        :             #36393f;
     border-radius           :               8px;
     overflow                :               hidden;
 }
@@ -2280,7 +2280,7 @@ button.button-2b4VEQ.height20-WSMpPs.button-f2h6uQ.lookFilled-yCfaCM.colorGreen-
 }
 
 .recentMentionsPopout-2bI1ZN .channelHeader-DFRX8q {
-    background-color        :             #292b2f;
+    background-color        :             #36393f;
     height                  :               fit-content;
     padding                 :               6px 16px;
     border-bottom           :               thin solid var(--background-modifier-accent);
