@@ -163,8 +163,8 @@
 
 /* main colors for the theme */
 .theme-dark,.theme-light{
-    --background-primary    :             #3612D4;
-    --background-secondary  :             #1E0D69;
+    --background-primary    :             #36393f;
+    --background-secondary  :             #2f3136;
     --color-brand-lighter   :             #483A89;
     
 }
