@@ -1,4 +1,4 @@
-<h1 align="center">ComfyGray</h1>
+<h1 align="center">Hellcord</h1>
 <p align="center">
   <a href="#dracula">overview</a> |
   <a href="#installation">installation</a> |
