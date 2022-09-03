@@ -1,7 +1,7 @@
 /**
 * @name Hellcords
 * @version 1.0
-* @author carrot#8812
+* @author Helltles#7959
 * @description A theme with a nice shade of gray everywhere! Its super comfy.
 * @source https://github.com/ObjectiveSlayer/ComfyGray
 * @invite not-set
@@ -138,10 +138,10 @@
     --spoiler-hidden-background:          #202225;
     --deprecated-card-bg    :             rgba(32,34,37,0.6);
     --deprecated-card-editable-bg:        rgba(32,34,37,0.3);
-    --deprecated-store-bg   :             #2f3136;
+    --deprecated-store-bg   :             #49C336;
     --deprecated-quickswitcher-input-background: #72767d;
     --deprecated-quickswitcher-input-placeholder:hsla(0,0%,100%,0.3);
-    --deprecated-text-input-bg:           #202225;
+    --deprecated-text-input-bg:           #A8C336;
     --deprecated-text-input-border:       rgba(0,0,0,0.3);
     --deprecated-text-input-border-hover: #040405;
     --deprecated-text-input-border-disabled:     #202225;
@@ -438,14 +438,14 @@
 /* custom textbox */
 .input-2g-os5:not(.addFriendInputWrapper-kkoSV9 .inputWrapper-1YNMmM .inputDefault-3FGxgL),
 .scrollableContainer-15eg7h:not(.addFriendInputWrapper-kkoSV9 .inputWrapper-1YNMmM .inputDefault-3FGxgL), .input-3r5zZY, .input-2g-os5  {
-    background-color        :             #303030 !important;
+    background-color        :             #0222E6 !important;
     transition              :               background-color 0.2s ease, border-color 0.2s ease !important;
     border                  :               1px solid transparent !important;
     outline                 :               none !important;
 }
 .input-2g-os5:not(.addFriendInputWrapper-kkoSV9 .inputWrapper-1YNMmM .inputDefault-3FGxgL):hover,
 .scrollableContainer-15eg7h:not(.addFriendInputWrapper-kkoSV9 .inputWrapper-1YNMmM .inputDefault-3FGxgL):hover, .input-3r5zZY:hover, .input-2g-os5  {
-    border-color            :             #5a5a5a !important;
+    border-color            :             #D41349 !important;
     background-color        :             rgb(32, 32, 32) !important;
 }
 .input-2g-os5:not(.addFriendInputWrapper-kkoSV9 .inputWrapper-1YNMmM .inputDefault-3FGxgL):focus-within,
@@ -510,14 +510,14 @@
 }
 .welcomeCTAButtonOuter-3pJkMq {
     background-color        :             #191919 !important;
-    border                  :               1px solid #444444;
+    border                  :               1px solid #DA0002;
     margin-top              :               5px;
     border-radius           :               25px !important;
     transition              :               0.5s ease;
 }
 .welcomeCTAButtonOuter-3pJkMq:hover {
     background-color        :             #252525 !important;
-    border                  :               1px solid #444444;
+    border                  :               1px solid #DA0002;
     margin-top              :               5px;
     border-radius           :               5px !important;
     transition              :               0.5s ease;
