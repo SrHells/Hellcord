@@ -1,0 +1,51 @@
+.rolesList-3uZoaa .roleCircle-3K9O3d {
+  flex-shrink: 0;
+}
+.roleCircle-3K9O3d {
+  display: none;
+}
+.role-2TIOKu {
+  position: relative;
+  overflow: hidden;
+  background: transparent;
+  border-radius: 0px 0px 0px 0px;
+  padding: 0px 2px 0px 2px;
+  border: solid;
+  border-width: 0px 0px 0px 2px;
+}
+.role-2TIOKu:before {
+  content: "";
+  position: absolute;
+  width: 100%;
+  left: 0px;
+  border-width: 12px;
+  border-style: solid;
+  border-color: inherit;
+  box-sizing: border-box;
+  pointer-events: none;
+  opacity: .3;
+  transition: .5s ease;
+}
+.role-2TIOKu .roleName-2ZJJYR {
+  padding-left: 4px;
+}
+.role-2TIOKu:hover:before {
+  opacity: .7;
+  filter: saturate(1.2);
+}
+.role-2TIOKu[aria-label]:not([style]) {
+  font-size: 12px;
+  font-weight: 500;
+  background: var(--background-modifier-selected);
+  -webkit-box-sizing: border-box;
+  border-color: #6e85d3;
+  box-sizing: border-box;
+  height: 22px;
+  width: 20% !important;
+  margin: 0 4px 4px 0;
+  padding: 4px;
+  color: #6e85d3;
+}
+.message-2CShn3 .role-2TIOKu{
+  bottom: 6px;
+}
