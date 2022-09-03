@@ -26,14 +26,14 @@
     --interactive-active    :             #fff;
     --interactive-muted     :             #4f545c;
     --background-primary    :             #2f3136;
-    --background-secondary  :             #2f3136;
+    --background-secondary  :             #36393f;
     --background-secondary-alt:           #292b2f;
     --background-tertiary   :             #202225;
     --background-accent     :             #4f545c;
     --background-floating   :             #18191c;
     --background-nested-floating:         #2f3136;
     --background-mobile-primary:          #2f3136;
-    --background-mobile-secondary:        #2f3136;
+    --background-mobile-secondary:        #36393f;
     --background-modifier-hover:          rgba(79,84,92,0.4);
     --background-modifier-active:         rgba(79,84,92,0.6);
     --background-modifier-selected:       rgba(79,84,92,0.6);
@@ -112,7 +112,7 @@
     --scrollbar-auto-thumb  :             #202225;
     --scrollbar-auto-track  :               hsl(210,calc(var(--saturation-factor, 1)*9.8%),20%);
     --scrollbar-auto-scrollbar-color-thumb:#202225;
-    --scrollbar-auto-scrollbar-color-track:#2f3136;
+    --scrollbar-auto-scrollbar-color-track:#36393f;
     --input-background      :             #202225;
     --input-placeholder-text:               hsl(216,calc(var(--saturation-factor, 1)*2.1%),53.9%);
     --elevation-stroke      :               0 0 0 1px rgba(4,4,5,0.15);
@@ -164,7 +164,7 @@
 /* main colors for the theme */
 .theme-dark,.theme-light{
     --background-primary    :             #2f3136;
-    --background-secondary  :             #2f3136;
+    --background-secondary  :             #36393f;
     --color-brand-lighter   :             #383838;
     
 }
