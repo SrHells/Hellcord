@@ -187,7 +187,7 @@
    display                  :               none;
 }
 .wordmarkWindows-2dq6rw::before{
-   content                  :               'ComfyGray';
+   content                  :               'Helltles';
    font-size                :               13px;
    font-weight              :               700;
    top                      :               4px;
@@ -224,10 +224,10 @@
 
 /* channel hover things :) */
 .container-ZMc96U.themed-Hp1KC_ {
-    background-color        :             #0f0f0f;
+    background-color        :             #292b2f;
 }
 .modeSelected-3DmyhH .content-1gYQeQ{
-    background-color        :             #1a1a1a;
+    background-color        :             #202225;
     border-radius           :               5px !important;
 }
 .modeSelected-3DmyhH .channelName-3KPsGw{
@@ -1265,11 +1265,11 @@ button[aria-label="Show Game Activity"]::before {
     transition              :               0.5s ease;
 }
 .emojiPicker-6YCk8a .header-11eigE .searchBar-2M9mRP:hover {
-    background-color        :             #1a1a1a !important;
+    background-color        :             #292b2f !important;
     transition              :               0.5s ease;
 }
 .emojiPickerListWrapper-1T3YI3, .categorySection-3j71bm .wrapper-1NNaWG  {
-    background-color        :             #1a1a1a;
+    background-color        :             #292b2f;
 }
 .diversitySelectorOptions-3DhNYs {
     background-color        :             #292929;
@@ -2260,11 +2260,11 @@ button.button-2b4VEQ.height20-WSMpPs.button-f2h6uQ.lookFilled-yCfaCM.colorGreen-
 /* bearable inbox */
 
 .recentMentionsPopout-2bI1ZN .header-145e10 {
-    background-color        :             #1a1a1a;
+    background-color        :             #292b2f;
 }
 .recentMentionsPopout-2bI1ZN .container-iA3Qrz,
 .recentMentionsPopout-2bI1ZN .channel-3NJZ1V {
-    background-color        :             #1a1a1a;
+    background-color        :             #292b2f;
     border-radius           :               8px;
     overflow                :               hidden;
 }
@@ -2280,7 +2280,7 @@ button.button-2b4VEQ.height20-WSMpPs.button-f2h6uQ.lookFilled-yCfaCM.colorGreen-
 }
 
 .recentMentionsPopout-2bI1ZN .channelHeader-DFRX8q {
-    background-color        :             #1a1a1a;
+    background-color        :             #292b2f;
     height                  :               fit-content;
     padding                 :               6px 16px;
     border-bottom           :               thin solid var(--background-modifier-accent);
