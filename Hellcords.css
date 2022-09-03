@@ -787,7 +787,7 @@ button[aria-label="Show Game Activity"]::before {
 
 /* focus look popouts modifying */
 #app-mount .root-g14mjS{
-    background-color        :             #0f0f0f;
+    background-color        :             #292b2f;
 }
 .focusLock-2tveLW .flex-2S1XBF{
     background-color        :             #171717;
@@ -1387,7 +1387,7 @@ button[aria-label="Show Game Activity"]::before {
 
 /* add a server/discovery restyle */
 .focusLock-2tveLW .flex-2S1XBF, [class="flex-2S1XBF flex-3BkGQD horizontalReverse-60Katr horizontalReverse-2QssvL flex-3BkGQD directionRowReverse-HZatnx justifyStart-2Mwniq alignStretch-Uwowzr noWrap-hBpHBz footer-31IekZ footer-3ie9JP footerSeparator-VzAYwb"] {
-    background-color        :             #0F0F0F !important;
+    background-color        :             #292b2f !important;
 }
 .templatesList-uohY49 .container-x8Y1ix, [class="footerButton-24QPis button-f2h6uQ lookFilled-yCfaCM colorPrimary-2AuQVo sizeMedium-2bFIHr grow-2sR_-F"]{
     background-color        :             #131313 !important;
